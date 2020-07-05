@@ -7,5 +7,16 @@ This is the template for participants' checklist. You can create a checklist in 
 
   * Assignments: (comming soon)
 
+- [x] Basics of Data Structures
+- [x] Basic Searching Techniques
+- [x] Maths and Number System
+
+  * Assignments:
+    - [x] Assignment 1
+    - [x] Assignment 2
+    - [x] Assignment 3
+
+ 
+
  ## Week 2:
 ...
